@@ -1,0 +1,9 @@
+Preprocessing completed.
+                            check  value
+             Rows before cleaning     30
+        Duplicate order IDs found      1
+     Rows after duplicate removal     29
+Missing cells after preprocessing      0
+    Transit-time outliers flagged      1
+Outputs saved to: /mnt/data/logistics_week2_preprocessing/outputs
+Note: dataset is synthetic demonstration data, not real company data.

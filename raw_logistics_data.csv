@@ -1,0 +1,31 @@
+order_id,dispatch_date,origin,destination,transport_mode,planned_transit_hours,actual_transit_hours,planned_cost_inr,actual_cost_inr,vehicle_utilization_pct
+ORD2001,2026-09-01,Bhubaneswar,Cuttack,Road,120,118,4200,4000,95
+ORD2002,2026-09-01,Bhubaneswar,Puri,Road,65,78,2600,3100,88
+ORD2003,2026-09-02,Cuttack,Balasore,Road,180,,5400,5900,91
+ORD2004,2026-09-02,Bhubaneswar,Sambalpur,Road,280,270,7200,6900,97
+ORD2005,2026-09-03,Puri,Bhubaneswar,Road,70,69,2500,2450,96
+ORD2006,2026-09-03,Cuttack,,Road,210,245,6000,7100,82
+ORD2007,2026-09-04,Bhubaneswar,Angul,Road,150,146,4100,4000,98
+ORD2007,2026-09-04,Sambalpur,Cuttack,Road,275,300,7000,7800,85
+ORD2009,2026-09-05,Balasore,Bhubaneswar,Road,175,170,5000,,96
+ORD2010,2026-09-05,Bhubaneswar,Rourkela,Road,330,355,8500,9400,84
+ORD2011,2026-09-06,Cuttack,Puri,Road,55,53,2100,2050,99
+ORD2012,2026-09-06,Berhampur,Bhubaneswar,Road,170,185,4800,5300,135
+ORD2013,2026-09-07,Bhubaneswar,Kendrapara,Road,95,92,3000,2900,97
+ORD2014,2026-09-07,Angul,Cuttack,Road,155,178,4300,5000,86
+ORD2015,2026-09-08,Bhubaneswar,Jajpur,Road,105,103,3200,3150,98
+ORD2016,2026-09-08,Rourkela,Sambalpur,Road,110,125,3500,4100,90
+ORD2017,2026-09-09,Cuttack,Bhubaneswar,Road,-10,34,1500,1450,99
+ORD2018,2026-09-09,Puri,Balasore,Road,200,220,5800,6500,87
+ORD2019,2026-09-10,Bhubaneswar,Dhenkanal,Road,110,108,3300,3250,98
+ORD2020,2026-09-10,Sambalpur,Rourkela,Road,120,142,3700,4300,85
+ORD2021,2026-09-11,Cuttack,Kendrapara,Road,85,999,2700,2600,97
+ORD2022,2026-09-11,Bhubaneswar,Koraput,Road,360,390,9200,10400,80
+ORD2023,2026-09-12,Balasore,Cuttack,Road,145,140,4200,4100,96
+ORD2024,2026-09-12,Bhubaneswar,Nayagarh,Road,100,104,3100,3200,94
+ORD2025,2026-09-13,  berhampur  ,Cuttack,Road,230,250,6400,7200,86
+ORD2026,2026-09-13,Cuttack,Jagatsinghpur,Road,75,72,2400,2350,98
+ORD2027,2026-09-14,Bhubaneswar,Keonjhar,Road,190,215,5500,6300,85
+ORD2028,2026-09-14,Puri,Cuttack,road ,65,62,2200,2150,98
+ORD2029,2026-09-15,Cuttack,Sundargarh,Road,290,315,7600,8500,83
+ORD2030,2026-09-15,Bhubaneswar,Khurda,Road,45,44,1800,1750,99

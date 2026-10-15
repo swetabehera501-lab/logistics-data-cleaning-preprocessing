@@ -1,0 +1,2 @@
+order_id,dispatch_date,origin,destination,transport_mode,planned_transit_hours,actual_transit_hours,planned_cost_inr,actual_cost_inr,vehicle_utilization_pct,actual_transit_outlier_flag,delay_hours,cost_overrun_inr,planned_transit_hours_minmax,actual_transit_hours_minmax,planned_cost_inr_minmax,actual_cost_inr_minmax,vehicle_utilization_pct_minmax
+ORD2021,2026-09-11,Cuttack,Kendrapara,Road,85.0,999.0,2700.0,2600.0,97.0,True,914.0,-100.0,0.12698412698412698,0.9999999999999999,0.15584415584415584,0.12849162011173187,0.8947368421052628
